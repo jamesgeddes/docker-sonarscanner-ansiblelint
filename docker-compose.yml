@@ -1,5 +1,5 @@
 services:
-    sonarqube:
-        image: sonarqube
+    sonar-scanner-cli:
+        image: sonarsource/sonar-scanner-cli:4
     ansible-lint:
         image: cytopia/ansible-lint
