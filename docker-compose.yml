@@ -1,0 +1,5 @@
+services:
+    sonarqube:
+        image: sonarqube
+    ansible-lint:
+        image: cytopia/ansible-lint
