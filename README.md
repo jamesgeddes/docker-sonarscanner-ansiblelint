@@ -1,2 +1,2 @@
-# docker-sonarqube-ansiblelint
-Docker image containing SonarQube and cytopia/ansible-lint
+# docker-sonarscanner-ansiblelint
+Docker image containing sonarscanner and ansible-lint
